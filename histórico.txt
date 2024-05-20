@@ -1,0 +1,64 @@
+    1  git clone 
+    2  git clone 
+    3  git clone https://gitlab.com/crede07/SATEV2
+    4  git status
+    5  git init 
+    6  ls
+    7  ls -a
+    8  cat .git/config 
+    9  git pull https://github.com/daaragac/testeGitHub.git origin/main
+   10  git pull https://github.com/daaragac/testeGitHub.git
+   11  git clone https://github.com/daaragac/testeGitHub.git
+   12  warning: You appear to have cloned an empty repository.
+   13  git commit -m "Primeiro commit usando CLI"
+   14  git push origin main
+   15  git push
+   16  git remoto adicionar origem https://github.com/daaragac/testeGitHub.git
+   17  git branch -M main 
+   18  git push -u origin main
+   19  git pusho https://github.com/daaragac/testeGitHub.git
+   20  git pushohttps://github.com/daaragac/testeGitHub.git
+   21  git pusho https://github.com/daaragac/testeGitHub.git
+   22  git statur
+   23  git status
+   24  git push -u https://github.com/daaragac/testeGitHub.git
+   25  git add .
+   26  git status
+   27  git add testeGitHub/
+   28  git commit -m "Primeiro commit usando CLI"
+   29  git logo
+   30  git logo
+   31  git log
+   32  git push -u origin main
+   33  git push -u origin master
+   34  cat .git/config 
+   35  git config
+   36  git congif --global user.name "daaragac"
+   37  git config --global user.name "daaragac"
+   38  git config user.email daaragaoc@gmail.com
+   39  git config user.name
+   40  git config user.email
+   41  git config init.defaultBranch
+   42  git status
+   43  git add .
+   44  git commid -m "Primeiro commit"
+   45  git commit -m "Primeiro commit"
+   46  git add .
+   47  git status
+   48  git add testeGitHub/
+   49  run the git add .
+   50  git init
+   51  ls
+   52  testeGitHub && git init
+   53  ls -a
+   54  cd testeGitHub/
+   55  ls
+   56  git add .
+   57  git status
+   58  git commit -m "Primeiro COMMIT"
+   59  git status
+   60  git push -u origin main
+   61  git push -u origin main
+   62  history
+   63  ls
+   64  history > histórico.txt
